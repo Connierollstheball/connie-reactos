@@ -2074,8 +2074,8 @@ HKCU,"AppEvents\Schemes\Apps\.Default\SystemStart",,0x00000012
 HKCU,"AppEvents\Schemes\Apps\.Default\SystemStart\.Current","",0x00020000,""
 HKCU,"AppEvents\Schemes\Apps\.Default\SystemStart\.Default","",0x00020000,""
 HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogoff",,0x00000012
-HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Current","",0x00020000,""
-HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Default","",0x00020000,""
+HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Current","",0x00020000,"%SystemRoot%\media\ReactOS_LogOff.wav"
+HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Default","",0x00020000,"%SystemRoot%\media\ReactOS_LogOff.wav"
 HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogon",,0x00000012
 HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogon\.Current","",0x00020000,"%SystemRoot%\media\ReactOS_LogOn.wav"
 HKCU,"AppEvents\Schemes\Apps\.Default\WindowsLogon\.Default","",0x00020000,"%SystemRoot%\media\ReactOS_LogOn.wav"
